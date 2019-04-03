@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="LandDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LandDB_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="LandDB" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/DB/h2-1.4.197.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
