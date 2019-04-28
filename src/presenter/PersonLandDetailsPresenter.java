@@ -185,8 +185,7 @@ public class PersonLandDetailsPresenter {
     public void showError(List<String> errorList) throws IOException {
         String msg = "";
 
-        if(errorList.isEmpty()){
-        }else {
+        if (!errorList.isEmpty()) {
             for (String s : errorList) {
                 msg = msg + s + "\n";
 
